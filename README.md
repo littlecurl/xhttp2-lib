@@ -2,13 +2,13 @@
 
 xhttp2-lib资源链接：
 
-
+[https://gitee.com/littlecurl/xhttp2-lib/raw/main/xhttp2-lib.zip](https://gitee.com/littlecurl/xhttp2-lib/raw/main/xhttp2-lib.zip)
 
 ## 手动引入模块并实现依赖的方式
 
 1. **下载**
 
-    下载 xhttp2-lib.zib
+    [下载 xhttp2-lib.zib](https://gitee.com/littlecurl/xhttp2-lib/raw/main/xhttp2-lib.zip)
 
 2. **解压**
 
@@ -108,7 +108,7 @@ implementation -> internal
 
 1. **下载**
 
-    下载 xhttp2-lib.zib
+    [下载 xhttp2-lib.zib](https://gitee.com/littlecurl/xhttp2-lib/raw/main/xhttp2-lib.zip)
 
 2. **解压**
 
